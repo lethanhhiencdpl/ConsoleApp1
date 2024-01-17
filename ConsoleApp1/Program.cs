@@ -249,7 +249,9 @@ namespace ConsoleApp1
             Console.ReadKey();
         }
 
-       
 
-}
+
+        //Bài 11: test GIT.
+
+    }
 }
